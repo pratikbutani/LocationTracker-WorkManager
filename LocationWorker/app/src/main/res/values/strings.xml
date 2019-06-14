@@ -1,0 +1,10 @@
+<resources>
+	<string name="app_name">Location-WorkManager</string>
+	<string name="action_settings">Settings</string>
+	<string name="button_text_stop">Stop</string>
+	<string name="message_worker_running">Location worker is going on...</string>
+	<string name="message_worker_stopped">Location worker is stopped</string>
+	<string name="log_for_running">You will be notified on every 15 minutes with new location.</string>
+	<string name="log_for_stopped">Click on Start to get location on every 15 minutes</string>
+	<string name="button_text_start">Start</string>
+</resources>
