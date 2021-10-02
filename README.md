@@ -1,6 +1,6 @@
 # LocationTracker-WorkManager
 
-I have created demo to get updates of Location with Address on every 15 minutes interval.
+I have created demo to get updates of location with address on every 15 minutes of interval.
 
 It will also allow to get updates of location in between given intervals of times.
 
